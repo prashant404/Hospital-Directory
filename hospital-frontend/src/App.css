@@ -1,0 +1,19 @@
+
+
+.navbar-custom {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-custom .navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.navbar-custom .nav-link {
+  font-size: 1.1rem;
+  margin-right: 1rem;
+}
+
+.navbar-custom .nav-link:hover {
+  color: #f8f9fa;
+}
